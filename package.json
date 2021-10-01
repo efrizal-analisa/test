@@ -1,7 +1,7 @@
 {
   "name": "quickey-react-native-sdk",
   "description": "A Login Management System for Application",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "dependencies": {
     "axios": "^0.21.4",
